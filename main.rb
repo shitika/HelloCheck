@@ -1,3 +1,6 @@
+# Ruby -3.0.0
+
+# gem install chatwork
 require 'chatwork'
 
 require_relative 'lib/hellocheck'
