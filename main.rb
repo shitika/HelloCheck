@@ -19,5 +19,5 @@ TOKEN = 'Your Token'
 TG_ROOM = group room id
 # ------------------------------------------
 
-hc = HelloCheck.new(TOKEN, MY_ROOM, TG_ROOM)
+hc = HelloCheck.new(TOKEN, TG_ROOM)
 hc.run
